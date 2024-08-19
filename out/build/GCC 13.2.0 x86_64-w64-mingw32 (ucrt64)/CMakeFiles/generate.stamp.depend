@@ -23,6 +23,8 @@ C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.30/Modules/FindPackageMessage.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
@@ -30,3 +32,8 @@ C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
 C:/Program Files/CMake/share/cmake-3.30/Templates/CPackConfig.cmake.in
+C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib/OpenCVConfig-version.cmake
+C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib/OpenCVConfig.cmake
+C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake
+C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib/OpenCVModules-release.cmake
+C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib/OpenCVModules.cmake

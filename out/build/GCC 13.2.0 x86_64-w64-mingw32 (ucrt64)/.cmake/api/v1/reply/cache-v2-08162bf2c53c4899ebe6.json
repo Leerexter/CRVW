@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "CRVW"
+			"value" : "testCmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1426,6 +1426,18 @@
 			"value" : "1500"
 		},
 		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_OpenCV",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding OpenCV"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[C:/Users/tleef/opencv_windows/opencv/build][v4.10.0()]"
+		},
+		{
 			"name" : "GITCOMMAND",
 			"properties" : 
 			[
@@ -1506,6 +1518,18 @@
 			"value" : ""
 		},
 		{
+			"name" : "OpenCV_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for OpenCV."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/Users/tleef/opencv_windows/opencv/build/x64/vc16/lib"
+		},
+		{
 			"name" : "P4COMMAND",
 			"properties" : 
 			[
@@ -1552,6 +1576,42 @@
 			],
 			"type" : "UNINITIALIZED",
 			"value" : ""
+		},
+		{
+			"name" : "testCmake_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)"
+		},
+		{
+			"name" : "testCmake_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "testCmake_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/CRVW"
 		}
 	],
 	"kind" : "cache",

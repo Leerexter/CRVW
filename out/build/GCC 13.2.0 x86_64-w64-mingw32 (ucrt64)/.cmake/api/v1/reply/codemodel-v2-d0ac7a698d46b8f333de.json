@@ -33,7 +33,7 @@
 					[
 						0
 					],
-					"name" : "CRVW",
+					"name" : "testCmake",
 					"targetIndexes" : 
 					[
 						0,
@@ -51,15 +51,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-f24fe9872b7da2f4287c.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-9839bb17cf228e4499b5.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "CRVW::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CRVW-Debug-cc5bf2ac1787ef0baa40.json",
-					"name" : "CRVW",
 					"projectIndex" : 0
 				},
 				{
@@ -96,6 +89,13 @@
 					"jsonFile" : "target-ZERO_CHECK-Debug-f65f2f3bba8549799aab.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testCmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testCmake-Debug-d1af0fcb36a3f085f050.json",
+					"name" : "testCmake",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -131,7 +131,7 @@
 					[
 						0
 					],
-					"name" : "CRVW",
+					"name" : "testCmake",
 					"targetIndexes" : 
 					[
 						0,
@@ -149,15 +149,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-f24fe9872b7da2f4287c.json",
+					"jsonFile" : "target-ALL_BUILD-Release-9839bb17cf228e4499b5.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "CRVW::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CRVW-Release-0c85f8e181bb61890f59.json",
-					"name" : "CRVW",
 					"projectIndex" : 0
 				},
 				{
@@ -194,6 +187,13 @@
 					"jsonFile" : "target-ZERO_CHECK-Release-f65f2f3bba8549799aab.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testCmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testCmake-Release-3374dcb9a163f2b87d1b.json",
+					"name" : "testCmake",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -229,7 +229,7 @@
 					[
 						0
 					],
-					"name" : "CRVW",
+					"name" : "testCmake",
 					"targetIndexes" : 
 					[
 						0,
@@ -247,15 +247,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-f24fe9872b7da2f4287c.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-9839bb17cf228e4499b5.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "CRVW::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CRVW-MinSizeRel-cf1bd2d212eb676e1e02.json",
-					"name" : "CRVW",
 					"projectIndex" : 0
 				},
 				{
@@ -292,6 +285,13 @@
 					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-f65f2f3bba8549799aab.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testCmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testCmake-MinSizeRel-c5302367b3e52db79881.json",
+					"name" : "testCmake",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -327,7 +327,7 @@
 					[
 						0
 					],
-					"name" : "CRVW",
+					"name" : "testCmake",
 					"targetIndexes" : 
 					[
 						0,
@@ -345,15 +345,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-f24fe9872b7da2f4287c.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-9839bb17cf228e4499b5.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "CRVW::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CRVW-RelWithDebInfo-f1bdbef65bb593bd2a61.json",
-					"name" : "CRVW",
 					"projectIndex" : 0
 				},
 				{
@@ -389,6 +382,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-f65f2f3bba8549799aab.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testCmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testCmake-RelWithDebInfo-b2ce867254d78c47a4f2.json",
+					"name" : "testCmake",
 					"projectIndex" : 0
 				}
 			]
