@@ -1,6 +1,6 @@
 ^C:\CRVW\OUT\BUILD\GCC 13.2.0 X86_64-W64-MINGW32 (UCRT64)\CMAKEFILES\05493D3691CC7B2200C27DD685E4C292\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/CRVW "-BC:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/CRVW.sln"
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/CRVW "-BC:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)/testCmake.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
