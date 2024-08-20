@@ -246,15 +246,6 @@ CPACK_SOURCE_7Z:BOOL=ON
 //Enable to build ZIP source packages
 CPACK_SOURCE_ZIP:BOOL=ON
 
-//Value Computed by CMake
-CRVW_BINARY_DIR:STATIC=C:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)
-
-//Value Computed by CMake
-CRVW_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-CRVW_SOURCE_DIR:STATIC=C:/CRVW
-
 //How many times to retry timed-out CTest submissions.
 CTEST_SUBMIT_RETRY_COUNT:STRING=3
 

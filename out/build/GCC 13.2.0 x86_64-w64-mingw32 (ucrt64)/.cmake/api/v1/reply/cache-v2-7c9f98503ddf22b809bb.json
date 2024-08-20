@@ -1310,42 +1310,6 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "CRVW_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/CRVW/out/build/GCC 13.2.0 x86_64-w64-mingw32 (ucrt64)"
-		},
-		{
-			"name" : "CRVW_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "CRVW_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/CRVW"
-		},
-		{
 			"name" : "CTEST_SUBMIT_RETRY_COUNT",
 			"properties" : 
 			[
